@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exchange>
+  <currency>
+    <exchangedate>20.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>17.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>19.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>16.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>18.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>16.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>17.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>16.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>16.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>15.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>15.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>14.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>14.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>13.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>13.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>10.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>12.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>09.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>11.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>09.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>10.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>09.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>09.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>08.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>08.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>07.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>07.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>06.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>06.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>03.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>05.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>02.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>04.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>02.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>03.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>02.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>02.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>01.03.2023</calcdate>
+</currency>
+  <currency>
+    <exchangedate>01.03.2023</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>36.5686</rate>
+    <units>1</units>
+    <rate_per_unit>36.5686</rate_per_unit>
+    <group>1</group>
+    <calcdate>28.02.2023</calcdate>
+</currency>
+</exchange>
