@@ -12,18 +12,26 @@ const server = http.createServer((req, res) => {
         const parser = new XMLParser();
         const parsedData = parser.parse(data); // Розбір XML-документу в об'єкт
         // Пошук максимального обмінного курсу серед валют
-        let maxRate = 0;
-        parsedData.exchange.currency.forEach(currency => {
-            if (parseFloat(currency.rate) > maxRate) {
-                maxRate = parseFloat(currency.rate);
-            }
-        });
-        const builder = new XMLBuilder();
-         // Побудова XML-відповіді з максимальним курсом
-        const xmlContent = builder.build({ data: { max_rate: maxRate.toString() } });
-        res.writeHead(200, { 'Content-Type': 'application/xml' });
-        res.write(xmlContent);
-        res.end();
+        if (Array.isArray(parsedData.exchange.currency)) {
+            let maxRate = 0;
+            parsedData.exchange.currency.forEach(currency => {
+                if (parseFloat(currency.rate) > maxRate) {
+                    maxRate = parseFloat(currency.rate);
+                }
+            });  
+            const builder = new XMLBuilder();
+            // Побудова XML-відповіді з максимальним курсом
+            const xmlContent = builder.build({ data: { max_rate: maxRate.toString() } });
+            res.writeHead(200, { 'Content-Type': 'application/xml' });
+            res.write(xmlContent);
+            res.end();
+        } else {
+            const builder = new XMLBuilder();
+            const xmlContent = builder.build({ data: { max_rate: parsedData.exchange.currency.rate.toString() } });
+            res.writeHead(200, { 'Content-Type': 'application/xml' });
+            res.write(xmlContent);
+            res.end();
+        }
     });
 });
 const host = "localhost";
